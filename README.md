@@ -1,4 +1,4 @@
-# 🚆 Train Seat Booking System,
+# 🚆 Train Seat Booking System
 
 ## 📌 Problem Statement
 
@@ -114,6 +114,3 @@ The program should simulate a complete seat booking flow, correctly assigning se
 - Support multiple coaches dynamically
 - Add REST API or UI layer
 - Persist booking data
-
----
-````````````````````````

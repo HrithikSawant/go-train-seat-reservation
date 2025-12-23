@@ -1,4 +1,4 @@
-````````````````````````# 🚆 Train Seat Booking System,
+# 🚆 Train Seat Booking System,
 
 ## 📌 Problem Statement
 
